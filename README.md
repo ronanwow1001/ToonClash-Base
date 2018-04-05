@@ -1,5 +1,3 @@
-# Toontown-Online-No-TTR
-Toontown Online source code
+# ToonClash Base Services
+This is the base, Toontown Online, to add features to the main game, ToonClash Online.
 
-# Thanks
-Thanks to Disney, Toontown Rewritten, and the Toontown community for making this source code possible.
