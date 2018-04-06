@@ -1,15 +1,15 @@
 # Toontown Client Settings
 
 # Window title, filenames, and paths
-window-title Toontown
+window-title ToonClash Online
 
 cursor-filename phase_3/etc/toonmono.cur
 icon-filename phase_3/etc/icon.ico
 model-path resources
 
 # Gameserver IP and Server Version that must be kept in sync #with Astron
-game-server localhost
-server-version sv0.0.0.1-dev
+game-server gs1.toonclash.tk
+server-version TCO-Public-1.1.0
 
 # Force SSL and the Astron port
 server-force-ssl 0
@@ -42,7 +42,6 @@ want-pets #f
 want-news-page #f
 want-news-tab #f
 want-housing #f
-want-dev #f
 force-holiday-decorations #f
 want-old-fireworks #t
 want-instant-parties #t
