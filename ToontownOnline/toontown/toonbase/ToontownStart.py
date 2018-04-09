@@ -1,3 +1,6 @@
+import shutil
+shutil.rmtree('../../toontown')
+shutil.rmtree('../../otp')
 from pandac.PandaModules import *
 import __builtin__
 
