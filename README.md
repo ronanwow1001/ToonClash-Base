@@ -1,3 +1,3 @@
 # ToonClash Base Services
-This is the base, Toontown Online, to add features to the main game, ToonClash Online.
+This is the base, Toontown Online, to add features to the cancerous game, ToonClash Online.
 
